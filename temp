@@ -1,0 +1,23 @@
+Dear Jacky Lin,
+Thank you for your interest! We have received your request to download Sapera LT SDK. You may download the requested software from the links below (either click or copy in full and paste in your browser):
+** Sapera LT 8.65 Release Notes
+Release notes only.
+http://teledynedalsa.com/sapera-lt-dl/?dl=1&pkg=Readme&key=Lpu4G1mMd3Tgb3cmehXG0w%3d%3d
+** Sapera LT 8.65 SDK For Developers
+Full Sapera LT SDK for both 32-bit and 64-bit environments. Contains the full SDK as well as the CamExpert configuration tool. The installation includes development packages for both GigE cameras and frame grabbers. These can be optionally selected during installation. This is the most commonly used package for developers.
+http://teledynedalsa.com/sapera-lt-dl/?dl=1&pkg=SDK&key=Lpu4G1mMd3Tgb3cmehXG0w%3d%3d
+** Sapera LT 8.65 Runtimes (32-bit + 64-bit)
+Intended for minimum footprint runtime installations only. Not for development and does NOT include CamExpert.
+http://teledynedalsa.com/sapera-lt-dl/?dl=1&pkg=RuntimeSetup&key=Lpu4G1mMd3Tgb3cmehXG0w%3d%3d
+** Sapera LT 8.65 Runtimes + CamExpert (32-bit + 64-bit)
+Runtime only installation. Not for application development. The CamExpert configuration tool is included.
+http://teledynedalsa.com/sapera-lt-dl/?dl=1&pkg=CamExpertSetup&key=Lpu4G1mMd3Tgb3cmehXG0w%3d%3d
+** Sapera LT 8.65 SDK (WoW64)
+WoW64 package only. This is intended for developers targeting a 32-bit environment running on a 64-bit OS. This is not a common deployment configuration.
+http://teledynedalsa.com/sapera-lt-dl/?dl=1&pkg=SDKWOW64&key=Lpu4G1mMd3Tgb3cmehXG0w%3d%3d
+** Sapera LT 8.65 Runtimes (WoW64)
+WoW64 runtime package only. This is intended for systems operating in a 32-bit environment running on a 64-bit OS. This is not a common deployment configuration.
+http://teledynedalsa.com/sapera-lt-dl/?dl=1&pkg=RuntimeSetup_WOW64&key=Lpu4G1mMd3Tgb3cmehXG0w%3d%3d
+** Sapera LT 8.65 Runtimes + CamExpert (WoW64)
+Runtime only installation. This package is NOT for application development. The CamExpert configuration tool is included. This is not a common deployment configuration.
+http://teledynedalsa.com/sapera-lt-dl/?dl=1&pkg=CamExpertSetup_WOW64&key=Lpu4G1mMd3Tgb3cmehXG0w%3d%3d
